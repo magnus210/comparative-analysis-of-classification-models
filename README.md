@@ -10,7 +10,7 @@ The project involves evaluating the performance of multiple machine learning alg
 ### Key Objectives:
 - Compare multiple classification and regression models.
 - Evaluate models based on performance metrics.
-- Visualize model performance through various charts and graphs.
+- Visualise model performance through various charts and graphs.
 
 ## Technologies Used
 - **Python** for programming
@@ -30,17 +30,11 @@ The project involves evaluating the performance of multiple machine learning alg
 The following models are evaluated in this project:
 - Logistic Regression
 - Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-- Linear Regression
+- Decision Tree
 
 Performance metrics such as **accuracy**, **precision**, **recall**, and **F1-score** are used to compare the models' effectiveness in different tasks.
 
 ## Conclusion
 
 This project provides insights into the strengths and weaknesses of various data science models. By comparing their performance on different tasks, it highlights how selecting the right model and metric can impact the results.
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
 
